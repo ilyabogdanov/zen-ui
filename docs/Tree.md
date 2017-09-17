@@ -12,7 +12,7 @@ such as first column alignment and column divider.
 Each branch is a container for any number of sibling branchlets, and
 each branchlet may contain a branch of children.
 * `TreeLeaf` and `TreeLeafColumn` which basically are just
-[Horizontal Layout](docs/HorizontalLayout.md). All content takes place inside leaf columns.
+[Horizontal Layout](HorizontalLayout.md). All content takes place inside leaf columns.
 
 #### First Column Alignment
 
