@@ -1,0 +1,12 @@
+{
+  "name": "zen-ui",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Ilya Bogdanov <public@ilyabogdanov.ru>",
+  "license": "Apache-2.0",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilyabogdanov/zen-ui.git"
+  }
+}
