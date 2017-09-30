@@ -48,3 +48,5 @@ Collection of UI components.
 * [zen-ui-core](https://github.com/ilyabogdanov/zen-ui-core/) - stylesheet
 * [zen-ui-react](https://github.com/ilyabogdanov/zen-ui-react/) - React implementation
 * [zen-ui-react-examples](https://github.com/ilyabogdanov/zen-ui-react-examples/) - React implementation examples
+* [zen-ui-angularjs](https://github.com/ilyabogdanov/zen-ui-angularjs/) - AngularJS implementation
+* [zen-ui-angularjs-examples](https://github.com/ilyabogdanov/zen-ui-angularjs-examples/) - AngularJS implementation examples
